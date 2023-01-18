@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>The Eric Site</title>
+</head>
+
+<body>
+
+    <h1>Welcome to "Why Eric"</h1>
+    <h2>Reasons Eric Is Not Best Student Are Below:</h2>
+
+    <p>He is a bump</p>
+    <p>He is on a log</p>
+    <p>He is chatting with a frog</p>
+    <p>And, lastly, he is drinking egg nog</p>
+
+    <img src="https://cdn.britannica.com/41/156441-050-A4424AEC/Grizzly-bear-Jasper-National-Park-Canada-Alberta.jpg" border="10">
+
+
+</body>
+</html>
